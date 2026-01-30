@@ -152,7 +152,8 @@ const Projects: React.FC = () => {
 
   return (
     <Section id="projects" title="Projects">
-      <div className="grid md:grid-cols-1 gap-10">
+      <p className="text-sm text-gray-500 mb-4 text-center">사진을 누르면 상세한 내용을 확인할 수 있습니다.</p>
+    <div className="grid md:grid-cols-1 gap-10">
         {projectsData.map((project, index) => (
           <div
             key={index}
