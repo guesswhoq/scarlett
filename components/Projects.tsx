@@ -8,7 +8,7 @@ const projectsData = [
     Description: "프랑스 파리 공동 협업 패션 매거진 프로젝트에서 크리에이티브 디렉션을 담당하여 총 5개 작품의 기획 의도, 콘셉트, 아이템 구성 및 모델 선정 기획 및 발표했습니다.",
     ImagePath: 'images/Paris_Fashion_Magazine.png',
     Tags: ['#매거진', '#에디터', '#패션'],
-    URL: 'https://iridescent-way-9a2.notion.site/2f75dcf5c6c1802ea0cddafa905a4976', 
+    URL: "https://drive.google.com/file/d/163XQFuqqM2FQMF_A1LM4TmIn4_5AaWhF/view?usp=sharing", 
   },
   {
     Title: "경북 B2G 지역상생 리포터",
