@@ -2,7 +2,7 @@
 import React from 'react';
 import Section from './Section';
 import { SiAdobephotoshop, SiAdobeillustrator, SiAdobepremierepro, SiCanva } from 'react-icons/si';
-import { FaBullhorn, FaPenFancy, FaLanguage, FaBookOpen, FaGlobe, FaUsers, FaFileExcel, FaTable, FaFilePowerpoint } from 'react-icons/fa';
+import { FaBullhorn, FaPenFancy, FaLanguage, FaBookOpen, FaGlobe, FaFileExcel, FaTable, FaFilePowerpoint } from 'react-icons/fa';
 
 const skillCategories = [
     {
@@ -11,17 +11,16 @@ const skillCategories = [
             { icon: <FaPenFancy size={48} />, name: '콘텐츠 기획/제작' },
             { icon: <FaBullhorn size={48} />, name: 'PR' },
             { icon: <FaBookOpen size={48} />, name: '스토리텔링' },
-            { icon: <FaGlobe size={48} />, name: '글로벌 커뮤니케이션' },
-        ]
-    },
-    {
-        name: 'Communication',
-        skills: [
             { icon: <FaLanguage size={48} />, name: '비즈니스 영어' },
             { icon: <FaFilePowerpoint size={48} />, name: '프레젠테이션' },
-            { icon: <FaUsers size={48} />, name: '고객 중심 사고' },
         ]
     },
+    // {
+    //     name: 'Communication',
+    //     skills: [
+    //         { icon: <FaGlobe size={48} />, name: '글로벌 커뮤니케이션' },
+    //     ]
+    // },
     {
         name: 'Creativity',
         skills: [
