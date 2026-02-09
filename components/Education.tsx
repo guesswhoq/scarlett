@@ -8,19 +8,19 @@ const educationData = [
     icon: <GlobeAltIcon className="h-8 w-8 text-[#b8954b]" />,
     institution: 'Groupe EDH - France',
     degree: 'Exchange Student(Major in Fashion Communication)',
-    period: '2025.09 - 2026.02',
+    period: '2025',
   },
   {
     icon: <AcademicCapIcon className="h-8 w-8 text-[#b8954b]" />,
     institution: 'Handong Global University - Korea',
     degree: 'Dual Major in Media & Communication / Economics',
-    period: '2020.03 - 2026.02',
+    period: '2020 - 2026',
   },
   {
     icon: <AcademicCapIcon className="h-8 w-8 text-[#b8954b]" />,
     institution: 'Shalom Christian Academy (SCA) - PA, USA',
     degree: 'High School Graduation',
-    period: '2016.09 - 2019.06',
+    period: '2016 - 2019',
   },
 ];
 
