@@ -5,7 +5,7 @@ import Section from './Section';
 const experienceData = [
   {
     role: 'B2G 교육사업 PM(Full-time)',
-    company: '패스트캠퍼스',
+    company: '데이원컴퍼니(패스트캠퍼스)',
     period: '2023.03 - 2024.02',
     description: 'B2G 교육 사업 기획 & 운영 매니저로서 하나의 B2G 사업을 총괄하여 담당했습니다. 기획 후 사업 예산,협업, 갖가지 문제들을 해결하며 운영하였고, 결과적으로 사업 재수주와 높은 KPI를 이끌어냈습니다.',
   },
