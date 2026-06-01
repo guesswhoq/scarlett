@@ -4,6 +4,12 @@ import Section from './Section';
 
 const experienceData = [
   {
+    role: '글로벌 크리에이터 어필리에이트 파트너십 매니저(Internship)',
+    company: '윗유',
+    period: '2026.03 - 2026.04',
+    description: 'Affiliate 및 탑 크리에이터를 발굴·관리하며 장기적인 파트너십을 구축하고, 크리에이터 특성에 맞춘 맞춤형 콘텐츠를 기획했습니다. 또한 Affiliate 및 크리에이터 네트워크를 활용해 브랜드 캠페인을 제안·운영했으며, Video View, Engagement, GMV 등 주요 데이터를 기반으로 성과를 분석하고 전략적 인사이트를 도출하여 캠페인 성과를 극대화했습니다.',
+  },
+  {
     role: 'B2G 교육사업 PM(Full-time)',
     company: '데이원컴퍼니(패스트캠퍼스)',
     period: '2023.03 - 2024.02',

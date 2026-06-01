@@ -29,7 +29,7 @@ const App: React.FC = () => {
         <Hero />
         <About />
         <Experience />
-        <Education />
+        {/* <Education /> */}
         <Skills />
         <Projects />
       </main>
