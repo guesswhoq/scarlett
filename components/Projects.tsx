@@ -31,13 +31,13 @@ const projectsData = [
     Tags: ['#연출가', '#연극기획', '#기획자'],
     URL: 'https://iridescent-way-9a2.notion.site/3-e41712381538478c87203b075b065316', 
   },
-  {
-    Title: "학보사 글로벌 기획 전담 기자",
-    Description: "교내 글로벌 이슈를 주제로 보도 기획과 취재를 진행하고, 글로벌 교육 실태를 분석한 기획 기사 「글로벌과 글로벌 그 사이」와 칼럼을 집필했으며 교내 글로벌 신문 표지 모델로도 참여했습니다.",
-    ImagePath: 'images/HandongPress.jpeg', 
-    Tags: ['#기획기사', '#기획취재', '#캠퍼스미디어'],
-    URL: 'https://iridescent-way-9a2.notion.site/f90f776beea944f9815f9a5e5422fe67', 
-  },
+  // {
+  //   Title: "학보사 글로벌 기획 전담 기자",
+  //   Description: "교내 글로벌 이슈를 주제로 보도 기획과 취재를 진행하고, 글로벌 교육 실태를 분석한 기획 기사 「글로벌과 글로벌 그 사이」와 칼럼을 집필했으며 교내 글로벌 신문 표지 모델로도 참여했습니다.",
+  //   ImagePath: 'images/HandongPress.jpeg', 
+  //   Tags: ['#기획기사', '#기획취재', '#캠퍼스미디어'],
+  //   URL: 'https://iridescent-way-9a2.notion.site/f90f776beea944f9815f9a5e5422fe67', 
+  // },
   {
     Title: "경북 여성현장상담센터 새날 카드뉴스 에디터",
     Description: "경북 여성현장상담센터 '새날' 온라인 매거진 에디터로 활동하며 여성 성매매 관련 최신 이슈를 중심으로 시리즈 기획, 해외 자료 리서치, 기사 작성까지 담당해 총 30편 이상의 콘텐츠를 발행·관리했습니다.",
