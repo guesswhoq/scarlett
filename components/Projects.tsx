@@ -25,14 +25,14 @@ const projectsData = [
     URL: 'https://iridescent-way-9a2.notion.site/c9d161c2c85a48e8a4342a9782ef6ca7', 
   },
   {
-    Title: "'3개의 장편 대학연극 기획 및 연출",
+    Title: "3개의 장편 대학연극 기획 및 연출",
     Description: "무대 서사부터 대본·동선·연기·소품·음향·조명까지 전반적인 무대 연출을 총괄하며, 다수의 레퍼런스 분석을 바탕으로 소품과 스타일링에 서사적 의미를 부여해 몰입도 높은 무대를 구현했습니다.",
     ImagePath: 'images/Play.jpeg', 
     Tags: ['#연출가', '#연극기획', '#기획자'],
     URL: 'https://iridescent-way-9a2.notion.site/3-e41712381538478c87203b075b065316', 
   },
   {
-    Title: "'한동신문 글로벌 기획 전담 기자",
+    Title: "학보사 글로벌 기획 전담 기자",
     Description: "교내 글로벌 이슈를 주제로 보도 기획과 취재를 진행하고, 글로벌 교육 실태를 분석한 기획 기사 「글로벌과 글로벌 그 사이」와 칼럼을 집필했으며 교내 글로벌 신문 표지 모델로도 참여했습니다.",
     ImagePath: 'images/HandongPress.jpeg', 
     Tags: ['#기획기사', '#기획취재', '#캠퍼스미디어'],
@@ -123,7 +123,7 @@ const projectsData = [
     URL: 'https://iridescent-way-9a2.notion.site/Grip-dce6f25588e54298b198e75cf297f80f', 
   },
   {
-    Title: "'영화 콘텐츠 소개 유튜브 채널 아나운서",
+    Title: "영화 콘텐츠 소개 유튜브 채널 아나운서",
     Description: "하이틴 콘셉트 콘텐츠 리서치부터 촬영 기획안·대본 구성, 의상·메이크업 협업까지 주도하며 장면별 분위기에 맞춘 현장 리드와 자연스럽고 정확한 전달력으로 콘텐츠를 완성했습니다.",
     ImagePath: 'images/Announcer.jpeg', 
     Tags: ['#진행자', '#아나운서', '#MC'],
@@ -136,13 +136,13 @@ const projectsData = [
     Tags: ['#라이브방송', '#쇼호스트', '#세일즈'],
     URL: 'https://iridescent-way-9a2.notion.site/f3237454cc4c4773a7971dc87cc2be79', 
   },
-  {
-    Title: "(주)데이원컴퍼니 이어드림 3기 PM",
-    Description: "패스트캠퍼스 X 중소벤처기업진흥공단 「2023 스타트업 청년인재 이어드림 스쿨 3기」에서 B2G 교육 사업 기획·운영 매니저로서 메인 기획부터 예산 관리, 유관기관 협업, 면접·교육 운영·취업 연계까지 약 18억 원 규모의 사업 전 과정을 총괄했습니다.",
-    ImagePath: 'images/Day1Company.png', 
-    Tags: ['#B2G사업', '#기획', '#프로젝트총괄'],
-    URL: 'https://iridescent-way-9a2.notion.site/3-PM-e27697b64a3848629c649e0b990d00e5', 
-  },
+  // {
+  //   Title: "(주)데이원컴퍼니 이어드림 3기 PM",
+  //   Description: "패스트캠퍼스 X 중소벤처기업진흥공단 「2023 스타트업 청년인재 이어드림 스쿨 3기」에서 B2G 교육 사업 기획·운영 매니저로서 메인 기획부터 예산 관리, 유관기관 협업, 면접·교육 운영·취업 연계까지 약 18억 원 규모의 사업 전 과정을 총괄했습니다.",
+  //   ImagePath: 'images/Day1Company.png', 
+  //   Tags: ['#B2G사업', '#기획', '#프로젝트총괄'],
+  //   URL: 'https://iridescent-way-9a2.notion.site/3-PM-e27697b64a3848629c649e0b990d00e5', 
+  // },
 ];
 
 const Projects: React.FC = () => {
